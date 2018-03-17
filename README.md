@@ -1,6 +1,6 @@
 # Template App Zabbix Server - Plus
 
-See in share.zabbix.com for details.
+See in share.zabbix.com for details.  
 https://share.zabbix.com/cat-app/template-app-zabbix-server-plus
 
 # Updates
