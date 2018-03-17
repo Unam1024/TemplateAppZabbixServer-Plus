@@ -1,7 +1,9 @@
 # Template App Zabbix Server - Plus
-Zabbix template for Zabbix server  
+
+See in share.zabbix.com for details.
 https://share.zabbix.com/cat-app/template-app-zabbix-server-plus
 
+# Updates
 2018-02-25 Ver. 1.0
  First release.
 
